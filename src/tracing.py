@@ -10,4 +10,4 @@ def init_langsmith_tracing() -> None:
     os.environ.setdefault("LANGCHAIN_TRACING_V2", "false")
 
     # Optional: provide a default project name if not set
-    os.environ.setdefault("LANGCHAIN_PROJECT", "MSBA_AI_Agents_Demo")
+    os.environ.setdefault("LANGCHAIN_PROJECT", "medical-dispatch-agents")
