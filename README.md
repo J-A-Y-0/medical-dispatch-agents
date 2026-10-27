@@ -1,5 +1,4 @@
 # SeeWeeS Multi-Agent Dispatch System
-**UCLA MSBA AI Agents Project Challenge 2026**
 
 A multi-agent LangGraph system for 48-hour medical logistics dispatch planning across two delivery corridors (NJ→Boston, NJ→Philadelphia), with a self-correcting audit loop that validates every dispatch plan against the SeeWeeS Operations Playbook before generating the final executive report.
 
